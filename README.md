@@ -1,6 +1,4 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# rust ChatGpt
+Make ChatFPT calls, all you gotta do is provida your OpenAI API key.
 
 ## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
